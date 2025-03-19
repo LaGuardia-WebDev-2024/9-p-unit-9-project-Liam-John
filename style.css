@@ -1,15 +1,20 @@
-@import url('https://fonts.googleapis.com/css2?family=Delius&family=Poetsen+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ballet:opsz@16..72&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ballet:opsz@16..72&family=Mystery+Quest&display=swap');
 
 body {
-  background-image: url("https://cdn.mos.cms.futurecdn.net/HuGGeENt6kGyixe3hT9tnY.jpg");
+  background-size: 650px;
+  background-image: url("https://img.freepik.com/premium-photo/abstract-celtic-knot-design-blue-green-colors_1282444-247228.jpg");
   text-align: center;
   margin: auto;
-   font-family: "Poetsen One", serif;
+  font-size:50px;
+  color: white;
+  font-family: "Times New Roman", Serif;
 }
 
 h1{
-  font-size: 30px;
-  color: white;
+  font-size: 90px;
+  font-family: "Ballet", cursive;
+  color: rgb(400, 40, 40);
 }
 
 #myCanvas {
